@@ -13,3 +13,4 @@ This is a React Native application created as part of an assignment. The applica
 11253942
 
 ## Screenshot
+![image](https://github.com/Dennis-Brow/rn-assignment2-11253942/assets/170894480/3a942624-3762-42ae-971b-cc19b8aec6f7)
